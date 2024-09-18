@@ -16,18 +16,18 @@
       "toolsId": "68ac136b-64e4-42c8-bcc2-09e0e86a9232"
     },
     "crossNavigation": {
-      "inbounds": {
-        "semanticobjecthelloworld-show": {
-          "semanticObject": "semanticobjecthelloworld",
-          "action": "show",
-          "title": "{{flpTitle}}",
-          "signature": {
-            "parameters": {},
-            "additionalParameters": "allowed"
-          }
-        }
+  "inbounds": {
+    "semanticobjecthelloworld-show": {
+      "semanticObject": "semanticobjecthelloworld",
+      "action": "show",
+      "title": "{{flpTitle}}",
+      "signature": {
+        "parameters": {},
+        "additionalParameters": "allowed"
       }
     }
+  }
+}
   },
   "sap.ui": {
     "technology": "UI5",
